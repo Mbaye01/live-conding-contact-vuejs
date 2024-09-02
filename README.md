@@ -1,5 +1,25 @@
-# Vue 3 + Vite
+## Live Coding Challenge
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## Description
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+Ce projet consiste à forker une application Vue.js depuis GitHub, la déployer sur Vercel, créer une image Docker de l'application, tester l'image en local, et publier l'image sur DockerHub. L'application permet de gérer des contacts, offrant des fonctionnalités pour ajouter, modifier, supprimer et afficher des contacts.
+
+## Fonctionnalités
+
+- Ajouter Contact
+- Modifier Contact
+- Supprimer Contact
+- Lister Contacts
+
+## Installation
+
+## Prérequis
+
+Docker (pour la conteneurisation)
+Un compte DockerHub (pour publier l'image)
+
+## Étapes d'installation
+
+Clonez le dépôt forké depuis GitHub :
+
+`git clone https://github.com/votre-utilisateur/live-coding-contact-vuejs.git`|
